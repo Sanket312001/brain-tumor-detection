@@ -1,4 +1,5 @@
 Brain Tumor Detection Using Deep Learning
+
 This project leverages Keras, TensorFlow, and Convolutional Neural Networks (CNNs) to build a robust deep learning model that can detect and classify brain tumors from MRI images. The model classifies input images into one of the following categories:
 
 1. Glioma Tumor
